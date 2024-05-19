@@ -1,0 +1,2 @@
+system void main 
+system.out.println (hello java world)
